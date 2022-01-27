@@ -16,6 +16,4 @@ public class Contact {
     private long id;
     private String name;
     private String phone;
-
-
 }
